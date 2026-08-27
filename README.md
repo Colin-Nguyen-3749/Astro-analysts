@@ -40,3 +40,13 @@ For this project, our analysis will be done using Python along with the Astropy 
 - [ ] Inspect images (visually) to find any failures that were not captured by image metadata
 - [ ] Recommend what LCO could do to make these future failures easier to predict and find
 - [ ] See if the public archive is good enough for our needs, or if we need use proprietary data
+
+### Output
+1. A detailed and comprehensive report
+2. Reproducible and documented code
+3. Summaries and data visualizations of failure rates
+4. Summaries of what we found and what we recommend to our client
+5. Overall short summary that can provide key insights to those who will not read full report
+6. Final professional presentation to LCO
+
+
