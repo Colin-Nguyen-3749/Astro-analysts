@@ -21,7 +21,7 @@ To investigate this, our team will utilize the public LCO science archive along 
 Finally, our team will take our research further by advising LCO on what it could do with the data insights that we pulled for them. 
 
 ### Methods
-For this project, our analysis will be done using Python along with the Astropy package. 
+For this project, our analysis will be done using Python along with the Astropy package. All code will be written in Jupyter notebooks since this is the standard sharing method in Astronomy. 
 
 ### Goals
 - [ ] Create a reproduceable dataset of the image frame metadata, which will be taken from the public LCO archive through its API
